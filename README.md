@@ -20,7 +20,7 @@ When I’m not battling bugs or summoning server-side spirits, you can find me i
 - **Enchantments:** REST APIs, GraphQL, Styled Components, Jest
 
 🔗 **Connect with the Wizard:**
-- 📜 Scroll through my spells on [GitHub](https://github.com/fatemehAkbari1992)
+- 📜 Scroll through my spells on [GitHub](https://github.com/FatemehAkabri)
 - 📧 Send a raven to: fateme.akbari71@gmail.com
 
 💡 **Fun Fact:** I find debugging a less daunting task than defeating dragons! 🐉
